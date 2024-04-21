@@ -1,0 +1,6 @@
+#  all the listed in this .gitignore will not be uploaded to github
+
+node_modules
+.env
+
+#above files can be recreated with some command the terminal
